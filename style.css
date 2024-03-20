@@ -9,14 +9,14 @@
 }
 
 :root{
-    --color-primario: #00ff00;
+    --color-primario: #88ff00;
     --color-secundario: #000000;
     --color-SecOpac: #000000b3;
     --color-terciario: #ffffff;
     --color-cuarto: #00e696;
-    --color-quinto: #aaffaa;
-    --color-sexto: #beffbe66;
-    --color-error: #ffcc00 ;
+    --color-quinto: #aae7ff75;
+    --color-sexto: #beffebd3;
+    --color-error: #ffd000c4 ;
 }
 
 ::placeholder {
